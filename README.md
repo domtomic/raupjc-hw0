@@ -1,2 +1,2 @@
-# raupjc-hw0
-0-Assignment
+# Pitanje { Redni broj pitanja iz zadace }:
+{ Odgovor na pitanje }
